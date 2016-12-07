@@ -10,7 +10,7 @@ Học sinh-Mã sinh viên				User (như cũ)
 		-Dân tộc			
 		-Mã lớp				
 		-Mã ngành
-		-Khóa
+		-Khóaâsa
 		-Hệ
 		-Kích hoạt
 		-Mô tả
